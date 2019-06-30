@@ -1,0 +1,24 @@
+.container {
+	margin-top: 30px;	
+}
+
+.DogInfo {
+	border: 0.5px solid black;
+	padding: 35px;
+	width: 28vw;
+	margin: auto;
+	border-radius: 4px;
+}
+
+.dog-profile-img {
+	width: 300px;
+}
+
+.back {
+	text-decoration: none;
+	cursor: pointer;
+	border: 1px solid grey;
+	color:white;
+	background-color: black;
+	padding: 10px;
+}

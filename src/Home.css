@@ -1,0 +1,10 @@
+.Home-doglist {
+	display: flex;
+	margin-top: 50px;	
+	justify-content: center;
+}
+
+.single-dog {
+	cursor: pointer;
+	margin:20px;
+}
